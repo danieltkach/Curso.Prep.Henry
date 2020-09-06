@@ -1,0 +1,18 @@
+El for es como una orden que se le da a la computadora
+para que repita un grupo de instrucciones la cantidad
+de veces que uno quiere. Sirve para repetir instrucciones
+de texto o número, o cosas más complejas, por ejemplo si 
+estoy programando un juego y quiero que un enemigo tire 
+un proyectil 10 veces, puedo utilizar un for escribiendo
+algo así for (i=0; i<=9; i++) {disparar_proyectil()}.
+
+Los símbolos `&&`, `||`, `!` son operadores, como los 
+símbolos matemáticos + - * / pero para hacer operaciones
+lógicas. El && quiere decir "y", por ejemplo " (sueldo > 2000 && horas < 40)".
+El || quiere decir "o", por ejemplo "nombre == "Daniel" || nombre == "Tkach".
+El signo de admiración significa "no", es para invertir el valor
+de verdad, por ejemplo "colorcasa != "blanca", sería la variable
+colorcasa tiene un valor distinto a "blanca".
+
+
+
