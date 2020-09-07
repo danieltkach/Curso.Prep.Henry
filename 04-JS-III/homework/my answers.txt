@@ -1,0 +1,8 @@
+Un array es un conjunto de elemento alineados, 
+básicamente una lista o una pila de cosas.
+Estas cosas que podemos guardar son datos,
+números, texto, valores de todo tipo, y hasta funciones.
+Hay comando para agregar datos como push() que agrega un 
+elemento al final (o arriba si lo pensamos como pila),
+pop() que quita un elemento de la cola. unshift() que lo
+agrega al principio y shift() que lo quita del principio.
