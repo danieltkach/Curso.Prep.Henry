@@ -67,15 +67,15 @@ function arrayContiene(array, elemento) {
   // Comprueba si el elemento existe dentro de "array"
   // Devuelve "true" si está, o "false" si no está
   // Tu código:
-  /* for (let i; i < array.length; i++)
+  for (let i=0; i < array.length; i++)
   {
     if (array[i] == elemento) return true; //el elemento existe
   }
 
-  return false; // el elemento no existe */
-  if (array.includes(elemento)) return true;
+  return false; // el elemento no existe
+  /* if (array.includes(elemento)) return true;
 
-  return false;
+  return false; */
 }
 
 function agregarNumeros(numeros) {
