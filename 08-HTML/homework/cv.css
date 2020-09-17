@@ -1,0 +1,37 @@
+img {
+    max-width: 150px;
+    max-height: 150px;
+}
+
+#titulo {
+    background-color: #0099ff;
+    color: floralwhite;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+#descripcion {
+    background-color: #e6f9ff;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
+    font-style: italic;
+}
+
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#expectativas {
+    background-color: #993333;
+    color: white;   
+    padding: 20px;
+}
+
+#fecha {
+    font-weight: bold;
+}
