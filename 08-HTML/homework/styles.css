@@ -1,0 +1,34 @@
+h1 {
+    color: seagreen;
+}
+
+img {
+    width: 400px;
+    height: 250px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background: lemonchiffon;
+    padding: 50px;
+    border: 5px dotted slateblue;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+body {
+    background-image: url("https://png.pngtree.com/back_origin_pic/04/00/85/889331bcddc7119c648cb09a0ed50262.jpg");
+    background-size: cover;
+}
+
+div {
+    margin: 0 auto;
+}
+
+* {
+    text-align: center;
+}
